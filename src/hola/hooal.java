@@ -6,7 +6,7 @@ public class hooal {
 		int num = 5;
 		for (int i = 1 ; i < num +1 ; i++) {
 			
-			System.out.println(i);
+			System.out.println(i); 
 		}
 		
 	}
